@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local ignores
+gas_pipeline.py
+tester.ipynb
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+venv/
+
